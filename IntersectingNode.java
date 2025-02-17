@@ -1,7 +1,6 @@
-// Time Complexity :O(n)
+// Time Complexity :O(m+n)
 // Space Complexity :O(1)
 // Did this code successfully run on Leetcode :Yes
-// Use the difference in lengths of the list to find the position to start the pointers. 
 /**
  * Definition for singly-linked list.
  * public class ListNode {
